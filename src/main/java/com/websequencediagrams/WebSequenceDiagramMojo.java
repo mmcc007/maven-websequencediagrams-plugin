@@ -18,7 +18,7 @@ import java.nio.charset.Charset;
  * @goal generate-diagrams
  * @phase package
  */
-@Mojo(name = "generate-diagrams", defaultPhase = LifecyclePhase.PACKAGE)
+//@Mojo(name = "generate-diagrams", defaultPhase = LifecyclePhase.PACKAGE)
 public class WebSequenceDiagramMojo extends AbstractMojo {
 
   /**
